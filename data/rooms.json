@@ -1,0 +1,110 @@
+[
+  {
+    "name": "Blue Room",
+    "location": "2nd floor",
+    "equipment": [
+      "projector",
+      "coffee machine"
+    ],
+    "size": "10 sqm",
+    "capacity": 3,
+    "avail": [
+      "07:00 - 13:00",
+      "14:00 - 19:00"
+    ],
+    "images": [
+      "url1",
+      "url2"
+    ]
+  },
+  {
+    "name": "Green Room",
+    "location": "3rd floor",
+    "equipment": [
+      "projector",
+      "coffee machine"
+    ],
+    "size": "8 sqm",
+    "capacity": 2,
+    "avail": [
+      "07:00 - 8:00",
+      "15:00 - 19:00"
+    ],
+    "images": [
+      "url1",
+      "url2"
+    ]
+  },
+  {
+    "name": "Black Room",
+    "location": "3rd floor",
+    "equipment": [
+      "projector",
+      "coffee machine"
+    ],
+    "size": "8 sqm",
+    "capacity": 2,
+    "avail": [
+      "07:00 - 8:00",
+      "15:00 - 19:00"
+    ],
+    "images": [
+      "url1",
+      "url2"
+    ]
+  },
+  {
+    "name": "Sand Room",
+    "location": "3rd floor",
+    "equipment": [
+      "projector",
+      "coffee machine"
+    ],
+    "size": "8 sqm",
+    "capacity": 2,
+    "avail": [
+      "07:00 - 8:00",
+      "15:00 - 19:00"
+    ],
+    "images": [
+      "url1",
+      "url2"
+    ]
+  },
+  {
+    "name": "Spring Room",
+    "location": "3rd floor",
+    "equipment": [
+      "projector",
+      "coffee machine"
+    ],
+    "size": "8 sqm",
+    "capacity": 2,
+    "avail": [
+      "07:00 - 8:00",
+      "15:00 - 19:00"
+    ],
+    "images": [
+      "url1",
+      "url2"
+    ]
+  },
+  {
+    "name": "Winter Room",
+    "location": "3rd floor",
+    "equipment": [
+      "projector",
+      "coffee machine"
+    ],
+    "size": "8 sqm",
+    "capacity": 2,
+    "avail": [
+      "07:00 - 8:00",
+      "15:00 - 19:00"
+    ],
+    "images": [
+      "url1",
+      "url2"
+    ]
+  }
+]
